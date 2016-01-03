@@ -7,5 +7,7 @@ public class test1{
     //Adds some strings for printing
     System.out.println("Hello world!");
     System.out.println("I think you've added something which hasn't been comitted...");
+    // Work request 1: add another line of code responsible for printing something
+    System.out.println("This is printing something");
   }
 }
